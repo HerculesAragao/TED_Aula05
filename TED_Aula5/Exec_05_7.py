@@ -1,0 +1,6 @@
+nome = input('Digite o nome do usuário: ')
+idade = input('Digite a idade do usuário: ')
+email = input('Digite o email do usuário: ')
+print(nome)
+print(idade)
+print(email)
